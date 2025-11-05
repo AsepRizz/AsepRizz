@@ -4,7 +4,7 @@
 
 🔎 Keahlian singkat
 - Cyber Security: Bisa mengoperasikan Beberapa Tools Seperti ZAP Proxy, SQLMAP, WPSCAN, DLL.  
-- language program: C/C++, HTML,CSS,JavaScriptS(NODE JS), PHP, PYTHON.  
+- language program: C/C++, HTML, CSS, JavaScriptS(NODE JS), PHP, PYTHON.  
 - Python: scripting, tooling untuk Pentesting.  
 - Lingkungan: Termux, Kali Linux, VirtualBox.
 
