@@ -9,7 +9,7 @@
 - Lingkungan: Termux, Kali Linux, VirtualBox.
 
 💡 Project & minat
-- ASEPSCAN (versi belajar): scanner gabungan untuk pemula.  
+- SCAN : scanner gabungan untuk pentest.  
 - eBook & tutorial: gw berniat bikin materi yang gampang diikuti pemula.  
 
 ## 🌐 Socials:
