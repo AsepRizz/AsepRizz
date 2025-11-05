@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-### 👨‍🎓 About Me<br><br>Halo. Gw mahasiswa Sistem Teknologi Informasi. Suka belajar keamanan siber khususnya red team, belajar ngoding, dan belajar bahasa Python buat bikin tools.
+### 👨‍🎓 About Me<br><br>Halo. Gw seorang mahasiswa Sistem Teknologi Informasi. Suka belajar keamanan siber khususnya red team, belajar ngoding, dan belajar bahasa Python buat bikin tools.
 
 🔎 Keahlian singkat
 - Cyber Security: Bisa mengoperasikan Beberapa Tools Seperti ZAP Proxy, SQLMAP, WPSCAN, DLL.  
