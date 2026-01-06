@@ -1,16 +1,9 @@
 ## Hi there 👋
 # 💫 About Me:
-### 👨‍🎓 About Me<br><br>Halo. Gw seorang mahasiswa Sistem Teknologi Informasi. Suka belajar keamanan siber khususnya red team, belajar ngoding, dan belajar bahasa Python buat bikin tools.
-
-🔎 Keahlian singkat
-- Cyber Security: Bisa mengoperasikan Beberapa Tools Seperti ZAP Proxy, SQLMAP, WPSCAN, DLL.  
-- language program: C/C++, HTML, CSS, JavaScriptS(NODE JS), PHP, PYTHON.  
-- Python: scripting, tooling untuk Pentesting.  
-- Lingkungan: Termux, Kali Linux, VirtualBox.
+### 👨‍🎓 About Me<br><br>Halo. saya seorang mahasiswa Sistem Teknologi Informasi.
 
 💡 Project & minat
 - SCAN : scanner gabungan untuk pentest.  
-- eBook & tutorial: gw berniat bikin materi yang gampang diikuti pemula.  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/riezky_exp/) 
