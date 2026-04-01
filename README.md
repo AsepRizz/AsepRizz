@@ -1,41 +1,57 @@
-## Hi there 👋
-# 💫 About Me:
-### 👨‍🎓 About Me<br><br>Halo. saya seorang mahasiswa Sistem Teknologi Informasi.
+# Hi there 👋 I'm Asep Rizki Ramadhan
 
-💡 Project & minat
-- SCAN : scanner gabungan untuk pentest.  
+### 🎓 About Me:
+👨‍💻 **About Me**
+Halo, saya Asep. Saya seorang mahasiswa **Sistem Teknologi & Informasi** (semester 4) yang memiliki minat mendalam di bidang **Cybersecurity**, khususnya Web Application Security. Saya aktif sebagai **Independent Security Researcher** yang fokus pada program *Responsible Disclosure*.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/riezky_exp/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AsepRizz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AsepRizz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsepRizz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](![trophy](https://github-profile-trophy.vercel.app/?username=AsepRizz&theme=dracula&margin-w=8&column=3)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AsepRizz&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+💡 **Project & Minat**
+* 🚀 **Vulnerable SIAKAD Lab:** Mengembangkan sistem informasi akademik yang sengaja dibuat rentan untuk media belajar *chaining attack* bagi komunitas (sedang dikembangkan).
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AsepRizz&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**AsepRizz/AsepRizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Socials:
+<a href="https://instagram.com/riezkyas" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Asep" />
+</a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack:
+
+#### 🚀 **Programming Languages & Web Dev**
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+#### 🛠️ **Databases & Servers**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+
+#### 🛡️ **Cybersecurity Tools**
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="Burp Suite" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" /> <img src="https://img.shields.io/badge/Metasploit-A21F24?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+
+#### 🎨 **Others**
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+
+---
+
+### 🛡️ **Verified Responsible Disclosures (Apresiasi):**
+<details>
+  <summary>Klik untuk melihat daftar perusahaan & vendor yang memberikan apresiasi keamanan</summary>
+
+* ✅ **PT Suteki Karya Nusantara** - *Certificate Appreciation*
+* ✅ **SEVIMA (Sentra Vidya Utama)** - *Certificate of Appreciation*
+* ... *dan beberapa instansi pemerintah/akademik lainnya.*
+
+</details>
+
+---
+
+### 📊 GitHub Stats:
+![Asep's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseprizz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+---
+
+### 🏆 GitHub Trophies:
+[![github-trophy](https://github-profile-trophy.vercel.app/?username=aseprizz&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+> *"The quieter you become, the more you are able to hear."*
