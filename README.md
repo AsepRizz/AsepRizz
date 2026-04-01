@@ -44,13 +44,8 @@ Halo, saya Asep. Saya seorang mahasiswa **Sistem Teknologi & Informasi** (semest
 
 ---
 
-### 📊 GitHub Stats:
-![Asep's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseprizz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Asep's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aseprizz&theme=tokyonight&hide_border=true&area=true)
 
----
-
-### 🏆 GitHub Trophies:
-[![github-trophy](https://github-profile-trophy.vercel.app/?username=aseprizz&theme=tokyonight&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
