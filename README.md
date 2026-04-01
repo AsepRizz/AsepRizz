@@ -1,8 +1,7 @@
 # Hi there 👋 I'm Asep Rizki Ramadhan
 
 ### 🎓 About Me:
-👨‍💻 **About Me**
-Halo, saya Asep. Saya seorang mahasiswa **Sistem Teknologi & Informasi** (semester 4) yang memiliki minat mendalam di bidang **Cybersecurity**, khususnya Web Application Security. Saya aktif sebagai **Independent Security Researcher** yang fokus pada program *Responsible Disclosure*.
+👨‍💻 Halo, Perkenalkan nama saya Asep Rizki Ramadhan. Saya seorang mahasiswa **Sistem Teknologi & Informasi** (semester 4) yang memiliki minat mendalam di bidang **Cybersecurity**, khususnya Web Application Security. Saya aktif sebagai **Independent Security Researcher** yang fokus pada program *Responsible Disclosure*.
 
 💡 **Project & Minat**
 * 🚀 **Vulnerable SIAKAD Lab:** Mengembangkan sistem informasi akademik yang sengaja dibuat rentan untuk media belajar *chaining attack* bagi komunitas (sedang dikembangkan).
